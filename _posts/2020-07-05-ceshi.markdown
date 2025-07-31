@@ -1,0 +1,25 @@
+---
+layout: post
+title: "hello我的测试2"
+subtitle: "我的测试2"
+author: "Hux"
+header-style: text
+tags:
+  - 知乎
+  - Meta
+---
+
+这是我的第一条博客。
+
+欢迎来到我的网站！
+
+你可以用**Markdown**语法写正文，比如：
+
+# 一级标题
+
+## 二级标题
+
+- 列表一
+- 列表二
+
+> 引用段落，也可以用。
