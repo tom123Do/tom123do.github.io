@@ -1,9 +1,10 @@
+---
 layout:     post
 title:      "Hello 2025"
 subtitle:   '"hello,world,我的测试"'
 date:       2025-08-01 00:00:00
 author:     "jack"
-header-img: "img/post-bg-2015.jpg"
+header-style: text
 catalog:    true
 tags:
   - Meta
