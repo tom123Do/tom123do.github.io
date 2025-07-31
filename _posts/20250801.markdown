@@ -1,12 +1,11 @@
 ---
-layout:     post
-title:      "Hello 2025"
-subtitle:   '"hello,world,我的测试"'
-date:       2025-08-01 00:00:00
-author:     "jack"
+layout: post
+title: "hello我的测试"
+subtitle: "我的测试"
+author: "Hux"
 header-style: text
-catalog:    true
 tags:
+  - 知乎
   - Meta
 ---
 
